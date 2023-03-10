@@ -1,6 +1,7 @@
 git add .
 git commit
 git push
+git pull
 git checkout
 git barnch
 git push --set-upstream origin update_script
